@@ -1,6 +1,5 @@
-.cache
-dist
-.idea
-.idea/*
-project-template
-parcel
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
